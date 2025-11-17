@@ -1,0 +1,3 @@
+Timestamp,Activity_Label,CPU_Package_Energy_Joules,DRAM_Energy_Joules,CPU_Usage_Pct,CPU_Freq_Current_MHz,CPU_Cores_Active,Mem_Usage_Pct,Mem_Used_GB,Disk_Read_Bytes_Cumulative,Disk_Write_Bytes_Cumulative,Net_Sent_Bytes_Cumulative,Net_Recv_Bytes_Cumulative,Thermal_Temp_C,Battery_Level_Pct,Power_Plugged
+2025-11-12T23:23:23.568318,PENDING_CONTEXTUAL_LABEL,0.0,0.0,17.6,1686.0,6,80.1,12.28,325902935040,334086427648,345265212,331487181,-1,8,False
+2025-11-12T23:23:26.591752,PENDING_CONTEXTUAL_LABEL,0.0,0.0,15.7,1686.0,6,80.1,12.27,325903041536,334087508992,345336335,331496524,-1,8,False
