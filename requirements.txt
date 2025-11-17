@@ -1,1 +1,4 @@
-Flask pandas openpyxl gunicorn
+Flask 
+pandas 
+openpyxl 
+gunicorn
